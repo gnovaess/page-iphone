@@ -4,10 +4,10 @@ https://user-images.githubusercontent.com/116459583/226148371-92124b00-ffcd-43f0
 
 *Projeto desenvolvido na Missão Você Programador*
 
- ## Tecnologias
+ ## Tecnologias 💻
 - HTML
 - CSS
 - JavaScript
 - Git e GitHub
-## Projeto 
+## Projeto ✍️
 [Acesse o projeto clicando aqui](https://iphoneproject.netlify.app/)
